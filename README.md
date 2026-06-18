@@ -76,9 +76,9 @@ VALUES
 
 SELECT * FROM Interns;
 
----
+```
 
-`## Project Screenshots`
+## Project Screenshots
 
 ### 1. AWS RDS MySQL Database Setup
 
@@ -127,7 +127,8 @@ Connected AWS RDS MySQL database using Python and retrieved records.
 ![Python Output](screenshots/python-output.png)
 
 
-`## Author`
+
+## Author
 
 **Sonal Patani**
 
