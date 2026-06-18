@@ -76,8 +76,9 @@ VALUES
 
 SELECT * FROM Interns;
 
+---
 
-## Project Screenshots
+## SQL Operations Performed
 
 ### 1. AWS RDS MySQL Database Setup
 
